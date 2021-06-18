@@ -1,4 +1,4 @@
-# A tool by nitrp from www.github.com/TheCyberBoy
+# A tool by Derek from www.github.com/TheCyberBoy
 # Be a unique person not copy cat
 clear
 green='\e[1;32m'
